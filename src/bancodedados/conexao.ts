@@ -9,4 +9,4 @@ export const knex = conexao({
         password: process.env.DB_PASS,
         database: process.env.DB_DATABASE
     }
-})
+})  

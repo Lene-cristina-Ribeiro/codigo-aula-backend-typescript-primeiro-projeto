@@ -1,4 +1,4 @@
-import { Request, Response } from 'express'
+ import { Request, Response } from 'express'
 import { knex } from '../bancodedados/conexao'
 import { Carro } from '../tipos'
 
